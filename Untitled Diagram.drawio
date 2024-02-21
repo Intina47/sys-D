@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T02:22:11.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RqEwYFVvGKeTAkyPwP4n" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T02:25:51.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="kvVTO6tbEd-1KuW9BdJ-" version="23.1.5" type="github">
   <diagram name="Page-1" id="ndZINGRnPVI3fZeNtN0m">
-    <mxGraphModel dx="341" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="779" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,9 +63,6 @@
         </mxCell>
         <mxCell id="jD6W0hsCGpTvZv-8-NtV-30" value="SEND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jD6W0hsCGpTvZv-8-NtV-31" value="Enter Subject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
